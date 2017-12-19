@@ -1,0 +1,16 @@
+Metadata-Version: 2.0
+Name: vapi-client-bindings
+Version: 2.5.0
+Summary: vapi client bindings for VMware vSphere Automation
+Home-page: UNKNOWN
+Author: VMware, Inc.
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: setuptools
+Requires-Dist: vapi-common-client (>=2.5.0)
+Requires-Dist: vapi-runtime (>=2.5.0)
+
+UNKNOWN
+
+
